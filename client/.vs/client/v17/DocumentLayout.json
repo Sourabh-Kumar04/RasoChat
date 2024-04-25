@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Academics\\RasoChat\\client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC8F79C-BE4C-4C00-BE8B-1312294CDE1A}|client.vcxproj|D:\\Academics\\RasoChat\\client\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2DC8F79C-BE4C-4C00-BE8B-1312294CDE1A}|client.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Academics\\RasoChat\\client\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\Academics\\RasoChat\\client\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAACgAAACAk5mZmdkqwDsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-23T18:28:38.311Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

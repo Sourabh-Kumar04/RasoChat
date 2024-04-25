@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Academics\RasoChat\client_2\main.cpp(31,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  client_2.vcxproj -> D:\Academics\RasoChat\client_2\x64\Debug\client_2.exe
