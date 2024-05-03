@@ -54,7 +54,7 @@ The server code (`main.cpp`) includes the following main steps:
 
 ### Client
 
-The client code (`client.cpp`) includes the following main steps:
+The client code (`main.cpp`) includes the following main steps:
 
 1. Initialize the Winsock library.
 2. Create a socket for connecting to the server.
